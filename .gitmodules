@@ -1,0 +1,3 @@
+[submodule "ilch"]
+	path = include/
+	url = https://github.com/IlchCMS/Ilch-1.1.git
